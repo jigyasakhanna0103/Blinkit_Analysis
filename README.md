@@ -1,2 +1,2 @@
-# Blinkit_Analysis
-Analysing the blinkit sales data by visual representation 
+# financial_analsysis_of_AMAZON
+Analysing the FINANCIAL ECOSYSTEM  of AMAZON 
